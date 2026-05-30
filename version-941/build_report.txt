@@ -1,0 +1,10 @@
+movies_parsed: 2000
+html_files: 2014
+detail_pages: 2000
+category_pages: 10
+category_movie_cards: 2000
+search_movie_cards: 2000
+image_assets_in_zip: 0
+baidu_missing_html: 0
+player_missing_detail_pages: 0
+zip_size_bytes: 11920501
